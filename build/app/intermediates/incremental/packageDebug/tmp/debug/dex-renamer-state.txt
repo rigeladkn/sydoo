@@ -1,0 +1,4 @@
+#Wed Aug 04 00:13:07 WAT 2021
+base.0=/Users/kgeeek/Kgeek/41DEVS/mobile_apps/pass.health/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

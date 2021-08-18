@@ -1,0 +1,14 @@
+{
+  "title": "thePassVIP",
+  "partnerCode": "Quel est votre code Partenaire ? ",
+  "login": "Je me connecte",
+  "connexion": "Connexion",
+  "amount": "Montant",
+  "toCharge": "à encaisser",
+  "cashIn": "Encaisser",
+  "fund": "Recharger",
+  "sellPoint": "Point de vente",
+  "chargeCard": "Point de charge",
+  "startNfc": "Cliquer pour démarrer",
+  "next": "Continuer"
+}
