@@ -1,3 +1,21 @@
 {
-  "title": "Arsen"
+  "title": "Sydoo",
+  "firstOnboardingTitle": "Bienvenue, je suis Sydoo",
+  "firstOnboardingIntroduction" : "J'ai été conçu pour vous aider à améliorer votre niveau d'anglais par des messages de chats pratiques",
+  "secondOnboardingTitle": "N'importe quoi, N'importe quand",
+  "secondOnboardingIntroduction" : "J'ai été conçu pour vous aider à améliorer votre niveau d'anglais par des messages de chats pratiques",
+  "thirdOnboardingTitle": "Pratiquons l'anglais",
+  "thirdOnboardingIntroduction" : "J'ai été conçu pour vous aider à améliorer votre niveau d'anglais par des messages de chats pratiques",
+  "next" : "Suivant",
+  "startNow" : "Commencer maintenant",
+  "letsGetIn" : "C'est parti",
+  "letsGo" : "C'est parti",
+  "theAMazingAventureBeginNow" : "La magnifique aventure commence maintenant !!",
+  "great" : "Parfait !!",
+  "chatRoom" : "Chatroom",
+  "sinceWeAreGoingToBeFriend" : "Puisque nous serons amis, permets moi en 30s de connaitre un peu plus sur toi.",
+  "whatIsYourName" : "Quel est ton prénom ?",
+  "niceToMeetYou" : "Enchanté de faire ta connaissance",
+  "whatIsYourLastName" : "Quel est ton nom ?",
+  "whatIsYourBirthDate" : "On y est presque, indiques moi ta date de naissance"
 }

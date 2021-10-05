@@ -1,3 +1,21 @@
 {
-  "title": "Pass Health"
+  "title": "Sydoo",
+  "firstOnboardingTitle": "Welcome dear, I’m Sydoo",
+  "firstOnboardingIntroduction" : "I’m made to help your english knownlege level by pratical chats messages",
+  "secondOnboardingTitle": "Anything, Anytime",
+  "secondOnboardingIntroduction" : "I'm here the help your english knownlege level by pratical chat message",
+  "thirdOnboardingTitle": "Let’s practice english",
+  "thirdOnboardingIntroduction" : "I'm here the help your english knownlege level by pratical chat message",
+  "next" : "Next",
+  "startNow" : "Start now",
+  "letsGetIn" : "Let’s get in",
+  "letsGo" : "Let’s go",
+  "theAMazingAventureBeginNow" : "The amazing aventure begin now !!",
+  "great" : "Great !!",
+  "chatRoom" : "Chatroom",
+  "sinceWeAreGoingToBeFriend" : "Since we’re going to be friends, I will take 30s to know more about you.",
+  "whatIsYourName" : "What’s your firstname ?",
+  "niceToMeetYou" : "Nice to meet you",
+  "whatIsYourLastName" : "What’s your lastname ?",
+  "whatIsYourBirthDate" : "We are almost ending! What is your birth date ?"
 }

@@ -1,12 +1,13 @@
 # This is a generated file; do not edit or check into version control.
-fluttertoast=/Users/kgeeek/flutter-v/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.7/
-nfc_manager=/Users/kgeeek/flutter-v/flutter/.pub-cache/hosted/pub.dartlang.org/nfc_manager-3.1.0/
-path_provider=/Users/kgeeek/flutter-v/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.2/
-path_provider_linux=/Users/kgeeek/flutter-v/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.0.0/
-path_provider_macos=/Users/kgeeek/flutter-v/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.0/
-path_provider_windows=/Users/kgeeek/flutter-v/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.1/
-shared_preferences=/Users/kgeeek/flutter-v/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.6/
-shared_preferences_linux=/Users/kgeeek/flutter-v/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-2.0.0/
-shared_preferences_macos=/Users/kgeeek/flutter-v/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-2.0.0/
-shared_preferences_web=/Users/kgeeek/flutter-v/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-2.0.0/
-shared_preferences_windows=/Users/kgeeek/flutter-v/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-2.0.0/
+emoji_picker_flutter=/home/rigel/flutter_development/flutter/.pub-cache/hosted/pub.dartlang.org/emoji_picker_flutter-1.0.7/
+fluttertoast=/home/rigel/flutter_development/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.8/
+nfc_manager=/home/rigel/flutter_development/flutter/.pub-cache/hosted/pub.dartlang.org/nfc_manager-3.1.0/
+path_provider=/home/rigel/flutter_development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.5/
+path_provider_linux=/home/rigel/flutter_development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.0/
+path_provider_macos=/home/rigel/flutter_development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.2/
+path_provider_windows=/home/rigel/flutter_development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.3/
+shared_preferences=/home/rigel/flutter_development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.8/
+shared_preferences_linux=/home/rigel/flutter_development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-2.0.2/
+shared_preferences_macos=/home/rigel/flutter_development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-2.0.2/
+shared_preferences_web=/home/rigel/flutter_development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-2.0.2/
+shared_preferences_windows=/home/rigel/flutter_development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-2.0.2/

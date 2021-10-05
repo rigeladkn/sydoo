@@ -1,7 +1,7 @@
-name: arsen
-description: Application mobile arsen.
+name: sydoo
+description: Application mobile Sydoo.
 authors:
-  - khaliq ALI <alikhaliq66@gmail.com>
+  - Rigel ADIKAN <rigeladikan@gmail.com>
   # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -37,6 +37,7 @@ dependencies:
   flutter_launcher_icons: ^0.9.0
   nfc_manager: ^3.1.0
   dotted_border: ^2.0.0
+  emoji_picker_flutter: ^1.0.7
 
 
 
@@ -74,7 +75,13 @@ flutter:
   assets:
     - locale/i18n_en.json
     - locale/i18n_fr.json
-    - assets/png/img_logo.png
+    - assets/png/img_logo_with_name.png
+    - assets/svg/ic_logo.svg
+    - assets/svg/ic_emoji.svg
+    - assets/svg/ic_send.svg
+    - assets/svg/ic_profile.svg
+    - assets/svg/ic_french.svg
+    - assets/svg/ic_english.svg
 
 
   # An image asset can refer to one or more resolution-specific "variants", see

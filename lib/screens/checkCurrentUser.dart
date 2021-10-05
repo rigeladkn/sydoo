@@ -1,10 +1,11 @@
 // This is just for check Session;
 
-import 'package:arsen/services/session.dart';
+import 'package:sydoo/screens/onboardingScreen.dart';
+import 'package:sydoo/screens/splashScreen.dart';
+import 'package:sydoo/services/session.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import 'loginScreen.dart';
 
 
 class CheckCurrentUser extends StatefulWidget {
@@ -31,7 +32,7 @@ class _CheckCurrentUserState extends State<CheckCurrentUser> {
     return token == null ? Scaffold(
       backgroundColor: Colors.white,
       body: Center(child: CupertinoActivityIndicator(),),
-    ) : token == "" ? Login() : Login();
+    ) : token == "" ? Onboarding() : Onboarding();
   }
 
 }

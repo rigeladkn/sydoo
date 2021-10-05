@@ -1,4 +1,4 @@
-com.devs41.passhealth
+com.devs41.sydoo
 attr alpha
 attr font
 attr fontProviderAuthority

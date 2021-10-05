@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.devs41.arsen">
+    package="com.devs41.sydoo">
     <uses-permission android:name="android.permission.NFC"/>
     <!-- io.flutter.app.FlutterApplication is an android.app.Application that
          calls FlutterMain.startInitialization(this); in its onCreate method.
@@ -8,7 +8,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="Pass Health"
+        android:label="Sydoo"
         android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"

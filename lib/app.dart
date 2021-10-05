@@ -1,4 +1,4 @@
-import 'package:arsen/screens/spashScreen.dart';
+import 'package:sydoo/screens/splashScreen.dart';
 import 'package:flutter/material.dart';
 import 'translations.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp( 
-      title: 'thePassVIP',
+      title: 'Sydoo',
       theme: appTheme,
       debugShowCheckedModeBanner: false,
       localizationsDelegates: [
